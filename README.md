@@ -18,6 +18,7 @@ For ROS 2 users to easily work with [RDK](https://github.com/flexivrobotics/flex
 
 ## Getting Started
 
+
 This project was developed for ROS 2 Foxy on Ubuntu 20.04. Other versions of Ubuntu and ROS 2 may work, but are not officially supported.
 
 1. Install [ROS 2 Foxy via Debian Packages](https://docs.ros.org/en/foxy/Installation/Ubuntu-Install-Debians.html)
