@@ -93,7 +93,7 @@ The main launch file to start the robot driver is the `rizon.launch.py` - it loa
 *(Details about other launch files can be found in [`flexiv_bringup`](/flexiv_bringup))*
 
 ### Example Commands
-
+0. 
 1. Start robot, or fake hardware:
 
    - Test with real robot:
